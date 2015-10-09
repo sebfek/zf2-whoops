@@ -1,5 +1,5 @@
 {
-    "name": "ghislainf/zf2-whoops",
+    "name": "sebfek/zf2-whoops",
     "description": "PHP whoops error on ZF2 framework",
     "version": "1.0.0",
     "type": "module",
