@@ -28,7 +28,7 @@
     "require": {
         "php": ">=5.3.3",
         "zendframework/zend-mvc": "2.*",
-        "filp/whoops": "1.*"
+        "filp/whoops": "2.*"
     },
     "autoload": {
         "psr-0": {
